@@ -62,10 +62,12 @@ python student_information.py
 ========== STUDENT INFORMATION ==========
 
 Name     : Hasim
-Age      : 23
+Age      : 22
 College  : Arka Jain University
-Course   : BCA
+Course   : BCA with Data Science
 City     : Jamshedpur
+State    : Jharkhand 
+
 
 =========================================
 ```
