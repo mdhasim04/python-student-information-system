@@ -16,6 +16,7 @@ The program takes student information from the user and displays it in a clean a
 - Take college name
 - Take course name
 - Take city name
+- Take state name 
 - Display all information in a formatted output
 
 ---
